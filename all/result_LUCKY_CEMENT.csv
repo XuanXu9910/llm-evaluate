@@ -1,0 +1,7 @@
+metrics,global_4omini,local_4omini,community_4omini,rag
+context_recall,0.56,0.56,0.71,0.72
+context_entity_recall,0.09,0.06,0.11,0.09
+answer_relevancy,0.39,0.49,0.34,0.51
+faithfulness,0.72,0.8,0.82,0.89
+factual_correctness,0.3,0.43,0.34,0.49
+semantic_similarity,0.7,0.75,0.69,0.75

@@ -1,0 +1,5 @@
+metrics,global_4omini,local_4omini,community_4omini,rag
+mean,0.81,0.79,0.75,0.77
+Q1,0.78,0.76,0.74,0.75
+median,0.82,0.79,0.76,0.78
+Q3,0.86,0.82,0.78,0.8
