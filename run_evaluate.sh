@@ -11,7 +11,7 @@ result_folder="./result"
 echo "-----------------開始進行評估: $report_name-----------------"
 
 # 遍歷來源資料夾中的所有檔案，篩選以 eval 開頭且副檔名為 .csv 的檔案
-for file_path in $final_research_folder/eval_community*.csv; do
+for file_path in $final_research_folder/eval_*.csv; do
   # 檢查檔案是否存在，避免空匹配
   if [ -f $file_path ]; then
     cp $file_path $evaluate_folder
